@@ -1,0 +1,11 @@
+USER ubuntu
+PASS ubuntu
+TYPE I
+SYST
+PWD
+PORT 127,0,0,1,132,209
+LIST
+DELE test
+MKD test
+QUIT
+
